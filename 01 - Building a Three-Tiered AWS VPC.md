@@ -1,6 +1,6 @@
 ## Building a Three-Tiered AWS VPC
 
-![](C:\Users\lebak\Downloads\building 1 tier achitecture.jpeg)
+![image](https://github.com/Padmalebaka/wordpress-aws/assets/164225494/41a9b926-7e8f-41fe-9df1-35d9d664c563)
 
 *Creating VPCs and subnets provides you with flexibility, control, and security when deploying and managing your resources in the AWS cloud. It allows you to build a customized network infrastructure tailored to your specific needs while maintaining a secure and isolated environment.*
 
